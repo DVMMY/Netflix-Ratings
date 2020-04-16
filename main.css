@@ -1,0 +1,26 @@
+.net-mod-rating-wrapper {
+  position: absolute;
+  display: inline-block;
+  top: 20px;
+  right: 20px;
+}
+
+.net-mod-rating-wrapper .net-mod-rating {
+  height: 30px !important;
+  width: 30px !important;
+  padding: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #fff;
+  margin-right: 5px;
+}
+
+.net-mod-rating-wrapper .net-mod-rating.imdb {
+  border-color: #f5c517 !important;
+}
+
+.net-mod-rating-wrapper .net-mod-rating.tomatoes {
+  border-color: #fa3108 !important;
+}
