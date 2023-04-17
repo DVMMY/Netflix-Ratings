@@ -3,6 +3,7 @@
   display: inline-block;
   top: 20px;
   right: 20px;
+  z-index: 999;
 }
 
 .net-mod-rating-wrapper .net-mod-rating {

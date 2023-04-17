@@ -1,8 +1,8 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Netflix Ratings",
   "description": "Provides Ratings to Netflix Shows",
-  "version": "1.1",
+  "version": "2.0",
   "content_scripts": [
     {
       "matches": ["https://*.netflix.com/*"],
@@ -11,9 +11,8 @@
     }
   ],
   "permissions": ["activeTab"],
-  "page_action": {
+  "action": {
     "default_icon": "icon.png",
-    "default_popup": "popup.html",
     "default_title": "Netflix Ratings!"
   }
 }
