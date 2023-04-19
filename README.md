@@ -4,8 +4,8 @@ The 'Netlfix Ratings' Chrome Extension allows Netflix to display IMDB, Rotten To
 
 ![Screenshot](Screenshot1.png)
 
-IMDB ratings are outlined in Yellow.
-Rotten Tomatoes ratings are outlined in Red.
+IMDB ratings are outlined in Yellow.<br />
+Rotten Tomatoes ratings are outlined in Red.<br />
 Metacritic ratings are outlined in White.
 
 ![Screenshot](Screenshot2.png)
